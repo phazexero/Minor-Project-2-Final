@@ -1,4 +1,4 @@
-# Minor-Project-2-Final
+# Skin Cancer Prediction Using ML
 An ML based project, dealing with skin cancer detection.
 
 Abstract:
